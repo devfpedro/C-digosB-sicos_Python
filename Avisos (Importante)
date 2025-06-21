@@ -1,0 +1,20 @@
+Avisos antes de Acessar os Códigos:
+
+1- Uma quantidade considerável de códigos não segue a "mesma lógica" do que é ensinado nos vídeos dos Mundos de Python 3, pois faço faculdade na
+área, e, consequentemente, muitas coisas que aprendi por outros matériais apliquei nos desafios, mas nada que não seja compreenssível ou que não
+esteja no mesmo nível do que é ensinado do Mundo 1 ao Mundo 3.
+
+2- A partir dos desafios do Mundo 2, principalmente, eu comecei a "ir além" do que era pedido nos enunciados, utilizando estruturas de condição e
+estruturas de repetição para validar apenas os dados ou tipos de dados que eram para serem lidos, não validando outras opções ou altenartivas na
+entrada de dados.
+
+3- No Mundo 2, especificamente, alguns códigos utilizam comandos ou lógicas que ainda não haviam sido ensinados no Curso. Isso porque, enquanto
+assistia as aulas e resolvia os exercícios desse Mundo, estava em época de provas para passar na disciplina que utilizagva justamente Python. Então,
+acabei por aproveitar os exercícios para implementar ainda mais coisas, revisando os assuntos vistos em sala de aula e mesclando-os com o que vi no
+Curso até então.
+
+4- No último desafio do Curso - Exercício 115 -, já no Mundo 3, quis implementar ainda mais coisas do que o que foi pedido no enunciado. Eu quis
+juntar todo, senão o máximo, de conhecimento que possuo da Linguagem Python e utilizá-lo para fazer um "pseudo-sistema", como eu mesmo chamei, pois
+não possui interface, e alcançar o melhor resultado possível. Além disso, busquei modularizar o "pseudo-sistema" o máximo que conseguia, utilizando
+funções, bibliotecas, módulos, pacotes etc. Portanto, a pasta do Exercício 115 contém a maior quantidade de códigos e importações que fiz até então.
+O que deve ser manuseado cuidadosamente, para que o "pseudo-sistema" funcione perfeitamente.
